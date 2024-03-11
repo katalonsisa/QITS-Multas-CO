@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_tablaResultado</name>
+   <tag></tag>
+   <elementGuidId>fae7b5a2-0e65-4a5a-b1c4-0fc5ca419779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;formAdmonTalonarios:j_idt410&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b541735-c8fa-4bc9-8f2b-91e7e7374be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;formAdmonTalonarios:j_idt410&quot;]</value>
+      <webElementGuid>c98a971f-245f-4710-afb0-9d79427b578c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_buscar</name>
+   <tag></tag>
+   <elementGuidId>50197cbf-293b-4eb6-8bf4-0059bde14cf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;formAdmonTalonarios:btnBuscar&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2686fc66-d1fa-4c10-bfae-d47c4d813b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;formAdmonTalonarios:btnBuscar&quot;]</value>
+      <webElementGuid>9818a414-4ccc-4c26-a71c-e0dfa1757404</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

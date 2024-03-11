@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_siInactivacion</name>
+   <tag></tag>
+   <elementGuidId>362f0c9c-cc7c-4591-a0a9-0ee4dad6bbb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;inactivationForm:j_idt490&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1c6913f9-46e1-4b9f-b17b-b7a91a9a9b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;inactivationForm:j_idt490&quot;]</value>
+      <webElementGuid>fcc569c4-3b86-4aff-838e-1f180510ad3b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

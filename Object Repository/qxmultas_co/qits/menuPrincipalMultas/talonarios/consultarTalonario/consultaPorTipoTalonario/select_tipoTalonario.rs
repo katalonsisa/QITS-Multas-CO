@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_tipoTalonario</name>
+   <tag></tag>
+   <elementGuidId>85a8a829-025e-4d8b-8e63-b285a974e30f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id=&quot;formAdmonTalonarios:selectTipoTalonario&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b6d9e3dc-38c5-449d-81f8-d5d9bd0f79e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id=&quot;formAdmonTalonarios:selectTipoTalonario&quot;]</value>
+      <webElementGuid>795a3e91-69d7-4b66-80cf-e349d47accaf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_verificarEnvio</name>
+   <tag></tag>
+   <elementGuidId>1cfda249-6be2-4725-8592-46810a918596</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'ui-messages-info-summary']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2b06ac8-10ee-4ddc-ae6c-4b99c058e3a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-messages-info-summary</value>
+      <webElementGuid>c3d02b7d-af22-4485-85c9-23dfc5b6aaba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

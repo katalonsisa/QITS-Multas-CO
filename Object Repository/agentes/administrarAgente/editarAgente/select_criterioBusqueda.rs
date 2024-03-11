@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_criterioBusqueda</name>
+   <tag></tag>
+   <elementGuidId>1be3e402-283c-4788-bcee-889272980fe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'formContent:criterio']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>03dcc0a6-7a76-461e-9186-e17d4ec6482e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:criterio</value>
+      <webElementGuid>463c0dd2-19ea-4b78-8460-c2c33436cabb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_mensaje</name>
+   <tag></tag>
+   <elementGuidId>1a650835-0a1b-4537-912d-6d5a0f20dff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id = 'content:fomrMensaje:textMensaje']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>e2b10610-2641-4f61-a87f-81f893c2acc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fomrMensaje:textMensaje</value>
+      <webElementGuid>bab19bc1-0f0c-4eb3-9c71-8500931e0426</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

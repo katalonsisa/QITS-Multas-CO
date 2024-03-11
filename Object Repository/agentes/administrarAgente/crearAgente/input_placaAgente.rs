@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_placaAgente</name>
+   <tag></tag>
+   <elementGuidId>a0271549-a78f-42af-8057-9a5e31e852c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'formContent:textPLacaAgente']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>402459dd-a917-4878-b551-bd8a19f2bce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:textPLacaAgente</value>
+      <webElementGuid>2ef97e1d-bd02-4a6b-b56c-4ec64d577870</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

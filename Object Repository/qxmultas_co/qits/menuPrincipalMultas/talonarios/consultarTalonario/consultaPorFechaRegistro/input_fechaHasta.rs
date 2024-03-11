@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_fechaHasta</name>
+   <tag></tag>
+   <elementGuidId>559621fe-5730-4bac-a57f-08c65d97dbf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;formAdmonTalonarios:fechaHasta_input&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1b24249d-8aae-4e23-8473-661e3ec827b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;formAdmonTalonarios:fechaHasta_input&quot;]</value>
+      <webElementGuid>cde5b63f-fffe-4bc7-9752-f0ea83c5a921</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

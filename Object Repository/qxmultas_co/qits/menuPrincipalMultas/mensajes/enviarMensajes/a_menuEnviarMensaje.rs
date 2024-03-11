@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_menuEnviarMensaje</name>
+   <tag></tag>
+   <elementGuidId>05cdb6b9-5319-4385-ae6e-39e93b627a41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'j_idt363:j_idt438']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ded83263-750c-4105-b8f4-c78f2426ad8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>j_idt363:j_idt438</value>
+      <webElementGuid>f3d769d7-d093-4a50-80da-7b780cd42076</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

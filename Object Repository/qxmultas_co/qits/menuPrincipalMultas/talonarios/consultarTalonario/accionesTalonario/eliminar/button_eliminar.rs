@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_eliminar</name>
+   <tag></tag>
+   <elementGuidId>d4fb82d3-0f99-4158-9da5-be7e60649bd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;formAdmonTalonarios:j_idt410:0:j_idt430&quot;]//span[contains(text(),'Eliminar')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e4298406-7ae1-4d93-aba5-b6bae25eb512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;formAdmonTalonarios:j_idt410:0:j_idt430&quot;]//span[contains(text(),'Eliminar')]</value>
+      <webElementGuid>8253317b-80b5-4190-8270-77d842dbeb2f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

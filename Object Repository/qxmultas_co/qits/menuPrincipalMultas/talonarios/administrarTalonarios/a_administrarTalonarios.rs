@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_administrarTalonarios</name>
+   <tag></tag>
+   <elementGuidId>91714112-1024-4dcb-bb3e-210ea61bd0e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id=&quot;j_idt363:j_idt370&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id=&quot;j_idt363:j_idt370&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id=&quot;j_idt363:j_idt370&quot;]</value>
+      <webElementGuid>2a1780ad-a511-4a0e-920d-7829eb09a2d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c865768b-0d8b-4aac-b704-4e630426e631</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

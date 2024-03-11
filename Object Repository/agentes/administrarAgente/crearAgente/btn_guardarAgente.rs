@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_guardarAgente</name>
+   <tag></tag>
+   <elementGuidId>9a70dd8a-6f78-4172-a1f3-7e13346aa405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'formContent:j_idt447']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7ff82c25-d8ed-4a04-8805-850df6d1fe17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:j_idt447</value>
+      <webElementGuid>c0888f4b-07a8-4834-891d-a1e3357a4017</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

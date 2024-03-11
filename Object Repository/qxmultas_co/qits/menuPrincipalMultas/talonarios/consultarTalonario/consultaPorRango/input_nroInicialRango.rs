@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_nroInicialRango</name>
+   <tag></tag>
+   <elementGuidId>6474053b-58a1-408c-962a-26be536b9dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;formAdmonTalonarios:textRangoInicial&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ca151556-a554-48b1-8123-84e9974662cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;formAdmonTalonarios:textRangoInicial&quot;]</value>
+      <webElementGuid>580af5c2-a606-4765-895b-3a9fd9a88544</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

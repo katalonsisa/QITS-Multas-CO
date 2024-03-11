@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_inactivar</name>
+   <tag></tag>
+   <elementGuidId>67211b3e-2175-4ed9-9967-13fc011a1840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;formAdmonTalonarios:j_idt410:0:j_idt428&quot;]//span[contains(text(),'Inactivar')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6c672c63-b975-4c69-81ef-e596446b56ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;formAdmonTalonarios:j_idt410:0:j_idt428&quot;]//span[contains(text(),'Inactivar')]</value>
+      <webElementGuid>29510da6-48e4-49f9-9162-076372be246e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

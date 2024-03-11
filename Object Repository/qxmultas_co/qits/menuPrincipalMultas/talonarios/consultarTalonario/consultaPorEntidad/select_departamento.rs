@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_departamento</name>
+   <tag></tag>
+   <elementGuidId>fc3e4395-7088-4edb-8f6d-081a89b7babe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id=&quot;formAdmonTalonarios:selectDepartamento&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>215e0aed-a21e-45ae-9885-56a9f0d8c0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id=&quot;formAdmonTalonarios:selectDepartamento&quot;]</value>
+      <webElementGuid>7d6b7b88-47a1-4a0c-a689-0857289e620f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

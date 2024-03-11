@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_guardarTalonario</name>
+   <tag></tag>
+   <elementGuidId>9be302bb-4373-49b7-918a-d335371d1896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;formAdmonTalonarios:j_idt480&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>03ed44a6-5932-4c8c-8134-0d8c5329d1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;formAdmonTalonarios:j_idt480&quot;]</value>
+      <webElementGuid>8f08c18a-1a19-4f99-ac95-2ff3ae0f03c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

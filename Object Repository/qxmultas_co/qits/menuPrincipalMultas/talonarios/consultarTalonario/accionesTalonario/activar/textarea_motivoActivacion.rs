@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_motivoActivacion</name>
+   <tag></tag>
+   <elementGuidId>bdedaa64-7970-458f-9026-720a5173c177</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id=&quot;activationForm:textObservacion&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>0fa999ca-5ad7-43b6-8605-9eeda31982f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textarea[@id=&quot;activationForm:textObservacion&quot;]</value>
+      <webElementGuid>2d1a25c5-e680-4bb8-8848-88464b58df55</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

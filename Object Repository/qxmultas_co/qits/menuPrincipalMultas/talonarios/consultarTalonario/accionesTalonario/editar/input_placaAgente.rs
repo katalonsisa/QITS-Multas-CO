@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_placaAgente</name>
+   <tag></tag>
+   <elementGuidId>466ae127-7da4-4ddf-aeb2-f42a972c1787</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;formAdmonTalonarios:textPlacaAgente&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>27845105-af89-4d79-9526-5038d75bf2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;formAdmonTalonarios:textPlacaAgente&quot;]</value>
+      <webElementGuid>76de4d30-e511-4438-93b3-d837f0a6c536</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

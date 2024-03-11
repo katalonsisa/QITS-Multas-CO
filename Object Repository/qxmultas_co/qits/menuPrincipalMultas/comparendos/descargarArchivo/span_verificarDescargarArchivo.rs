@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_verificarDescargarArchivo</name>
+   <tag></tag>
+   <elementGuidId>346e827c-cbe5-4e72-8733-fc5021554374</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'ui-messages-warn-summary']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-messages-warn-summary</value>
+      <webElementGuid>1ef023f6-de71-4c4e-b624-8bdd3c228f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7360241-f203-443b-bf84-e42f1f6458d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

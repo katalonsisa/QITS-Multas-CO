@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_verificacionTitulo</name>
+   <tag></tag>
+   <elementGuidId>2757b716-f17a-48bd-8745-3ded0de7ea83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id = 'j_idt206:j_idt207:0:j_idt208']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c476528d-2c90-496e-9b3f-0b1d61fc2cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>j_idt206:j_idt207:0:j_idt208</value>
+      <webElementGuid>0bf0d5d3-c459-4edf-afd2-04283a65e181</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

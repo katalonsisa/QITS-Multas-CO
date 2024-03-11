@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_verificacionBuscar</name>
+   <tag></tag>
+   <elementGuidId>78d39c9b-7cd5-4c3a-b92a-0b13fd1f60fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//fieldset[@id = 'formContent:j_idt386']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fieldset</value>
+      <webElementGuid>89204df6-8396-4d8f-a0a7-810a9c3fc8f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:j_idt386</value>
+      <webElementGuid>317ce6de-228f-4942-b383-eb30ca7bace3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

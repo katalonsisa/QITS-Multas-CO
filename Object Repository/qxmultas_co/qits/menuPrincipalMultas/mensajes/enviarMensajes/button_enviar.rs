@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_enviar</name>
+   <tag></tag>
+   <elementGuidId>d6b095b0-49f0-4b53-8689-bfd38bd5d01d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'content:fomrMensaje:j_idt402']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>004c7d5b-502c-4076-aa6b-9b5f4a803214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fomrMensaje:j_idt402</value>
+      <webElementGuid>618a3602-1ef9-46cd-bbb7-0fb1f2976767</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

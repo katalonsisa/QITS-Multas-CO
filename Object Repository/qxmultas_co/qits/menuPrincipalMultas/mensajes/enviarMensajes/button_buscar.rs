@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_buscar</name>
+   <tag></tag>
+   <elementGuidId>fb2b8c4a-cdc4-4162-b62b-5a51f6a0b16f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'content:fomrbuscarAgen:j_idt393']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b7a378a-db75-455b-89a2-6d6846435e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fomrbuscarAgen:j_idt393</value>
+      <webElementGuid>2b99f8a3-1cca-45f3-92c9-eea78eecbdba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

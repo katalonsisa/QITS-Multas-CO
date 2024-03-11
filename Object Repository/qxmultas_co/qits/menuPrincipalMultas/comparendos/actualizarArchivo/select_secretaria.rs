@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_secretaria</name>
+   <tag></tag>
+   <elementGuidId>bd7b7f5e-12cb-445d-a75b-ed81bbfc34bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'content:selectSecretaria']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f1e173bc-cd8e-43ed-8853-3fed133a2dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:selectSecretaria</value>
+      <webElementGuid>2698cfa7-613e-437b-bd25-2891364c9474</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

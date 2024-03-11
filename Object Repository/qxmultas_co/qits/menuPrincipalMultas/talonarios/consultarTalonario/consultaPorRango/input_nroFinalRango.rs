@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_nroFinalRango</name>
+   <tag></tag>
+   <elementGuidId>6a647347-bc68-4c13-ba8c-a7d5d3e215a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;formAdmonTalonarios:textRangoFinal&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5f3bb590-9f98-4cac-a8bd-a20c13a92282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;formAdmonTalonarios:textRangoFinal&quot;]</value>
+      <webElementGuid>18034791-b849-42c6-85e2-2e2d46a870c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

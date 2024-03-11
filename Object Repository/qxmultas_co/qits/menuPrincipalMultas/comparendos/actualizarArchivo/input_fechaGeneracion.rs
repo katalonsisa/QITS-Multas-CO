@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_fechaGeneracion</name>
+   <tag></tag>
+   <elementGuidId>44624ef3-be43-4f56-96fe-fab8bf2427e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'content:fechaGeneracion_input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c2e70d72-3d49-4218-8230-2fc86187eb6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fechaGeneracion_input</value>
+      <webElementGuid>c70e5926-e91b-46df-b9e3-8954c1e48ea8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

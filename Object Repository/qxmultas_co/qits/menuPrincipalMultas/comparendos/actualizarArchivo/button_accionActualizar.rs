@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_accionActualizar</name>
+   <tag></tag>
+   <elementGuidId>48bea887-2d93-43be-ae0b-7d10ccab484f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'content:j_idt397:0:j_idt415']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cda28303-352f-44e6-97fe-9e29ae0e3f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:j_idt397:0:j_idt415</value>
+      <webElementGuid>ded6d22d-b232-4bc2-b6be-cea891667cf2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

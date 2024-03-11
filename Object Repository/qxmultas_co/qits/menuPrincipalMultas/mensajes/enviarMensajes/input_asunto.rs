@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_asunto</name>
+   <tag></tag>
+   <elementGuidId>6fd1a14d-b21c-4795-913d-a51c1164b774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'content:fomrMensaje:textAsunto']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3d127d1f-5897-4790-b060-2d2d94cb327b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fomrMensaje:textAsunto</value>
+      <webElementGuid>47b283b5-2252-4703-aa8e-1f3dd46e4321</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_fechaDesde</name>
+   <tag></tag>
+   <elementGuidId>1c4c4c58-2a43-4aef-82f0-a2af7c950d72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;formAdmonTalonarios:fechaDesde_input&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3030e7a3-f007-4ee9-9ccb-e03374c58ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;formAdmonTalonarios:fechaDesde_input&quot;]</value>
+      <webElementGuid>f05a2340-1090-4f23-abef-f98b6ca55a37</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

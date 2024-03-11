@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_adicionar</name>
+   <tag></tag>
+   <elementGuidId>bbf0be45-3af7-4327-9437-4910cfd1bd37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;formAdmonTalonarios:j_idt405&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;formAdmonTalonarios:j_idt405&quot;]</value>
+      <webElementGuid>9717c9d9-7dc4-48d7-9839-37a220806a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa2796e3-c744-4617-b906-6b9eea6d43c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

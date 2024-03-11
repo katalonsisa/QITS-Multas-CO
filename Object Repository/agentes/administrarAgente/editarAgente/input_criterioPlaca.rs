@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_criterioPlaca</name>
+   <tag></tag>
+   <elementGuidId>87d717e8-e7ae-4419-a98b-5914537783ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'formContent:textPlacaAgenteCriterio']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d1c74662-d089-46fe-8ab7-915ee6deede3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:textPlacaAgenteCriterio</value>
+      <webElementGuid>1dd868e2-ae4a-4211-ae41-f438f9537a2d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

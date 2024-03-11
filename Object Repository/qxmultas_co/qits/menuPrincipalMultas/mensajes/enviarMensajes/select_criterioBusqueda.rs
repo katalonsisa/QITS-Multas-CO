@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_criterioBusqueda</name>
+   <tag></tag>
+   <elementGuidId>2519b308-7931-43bf-a855-da2654559585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'content:fomrbuscarAgen:criterio']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4d12a010-76c8-4df3-8894-f1286be06455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fomrbuscarAgen:criterio</value>
+      <webElementGuid>34abc762-124d-42f1-aa4b-c626dda2c6c5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

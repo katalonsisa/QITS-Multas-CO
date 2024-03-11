@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_mensajeNoResultado</name>
+   <tag></tag>
+   <elementGuidId>9b35af24-f8ed-4408-b10b-0f4a0243c9d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;j_idt350&quot;]//span[@class=&quot;ui-messages-warn-summary&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e9c6e98-29ed-4ab5-aa18-ede66d0b2bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;j_idt350&quot;]//span[@class=&quot;ui-messages-warn-summary&quot;]</value>
+      <webElementGuid>fe7fadc3-9ba3-4852-a93c-91109d24c29f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

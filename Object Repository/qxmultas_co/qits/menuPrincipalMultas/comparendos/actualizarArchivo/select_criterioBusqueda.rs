@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_criterioBusqueda</name>
+   <tag></tag>
+   <elementGuidId>566afaff-d31d-44fe-a94c-7fe899ec9ebe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'content:selectCriterio']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fe77cff3-5fe4-4b00-a24f-e8d1c382c30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:selectCriterio</value>
+      <webElementGuid>3695309f-9f62-46e7-ab13-12fffbc7750b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

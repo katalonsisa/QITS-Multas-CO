@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_actualizarArchivo</name>
+   <tag></tag>
+   <elementGuidId>45ce6ae9-dd9a-4e83-8e92-4971352a7f43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'j_idt363:j_idt423']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d5750ba-b1e8-4daf-b35f-05449b109f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>j_idt363:j_idt423</value>
+      <webElementGuid>bfe1af0c-4627-479e-8769-3ca8fac76778</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

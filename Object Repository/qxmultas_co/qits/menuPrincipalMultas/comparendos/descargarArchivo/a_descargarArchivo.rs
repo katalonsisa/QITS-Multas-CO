@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_descargarArchivo</name>
+   <tag></tag>
+   <elementGuidId>873d4cb9-2e90-4a46-b3e4-008c08706d59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id=&quot;j_idt363:j_idt420&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id=&quot;j_idt363:j_idt420&quot;]</value>
+      <webElementGuid>0aca526c-e4cf-4d1c-9ace-01ea651b56e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e88e526f-b233-48e2-9ae8-aa24aa9b54cb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

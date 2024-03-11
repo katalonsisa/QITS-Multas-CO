@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_verificaActualizacion</name>
+   <tag></tag>
+   <elementGuidId>3ce94d41-bf50-4c4b-bd78-e72310642f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'j_idt350' and @class = 'ui-messages ui-widget']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42145bc8-39a2-42d5-b970-5ecd68c9cda3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>j_idt350</value>
+      <webElementGuid>f9a02a5d-7995-49dc-861b-a581890fce27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-messages ui-widget</value>
+      <webElementGuid>b3cd3101-6316-4bee-83a9-73974778b868</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

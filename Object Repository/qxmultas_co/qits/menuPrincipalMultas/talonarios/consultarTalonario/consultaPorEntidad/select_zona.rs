@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_zona</name>
+   <tag></tag>
+   <elementGuidId>1c736418-6ec0-4882-8e8e-24ff5decb473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id=&quot;formAdmonTalonarios:selectZona&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fb6e2cf9-b684-4258-9ca3-bb82315e852a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id=&quot;formAdmonTalonarios:selectZona&quot;]</value>
+      <webElementGuid>09744a9d-7c7e-4686-8c28-9ba939af26f7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_criterioAgente</name>
+   <tag></tag>
+   <elementGuidId>1e99f16b-6065-4e53-b7e4-3e28a74798a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'content:fomrbuscarAgen:criterioAgente']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5d806d88-2f8f-4498-9860-25ea95724123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content:fomrbuscarAgen:criterioAgente</value>
+      <webElementGuid>8594cff5-70af-44a3-8eb7-53cd1c46adb0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

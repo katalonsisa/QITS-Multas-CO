@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_administrarAgente</name>
+   <tag></tag>
+   <elementGuidId>a93b460e-78ff-42f5-80e1-b586a41233f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'j_idt363:j_idt404']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7105d4e9-427f-417d-98ea-64b1a5279c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>j_idt363:j_idt404</value>
+      <webElementGuid>ae15aac9-a690-433b-a3cd-59d0be9164c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

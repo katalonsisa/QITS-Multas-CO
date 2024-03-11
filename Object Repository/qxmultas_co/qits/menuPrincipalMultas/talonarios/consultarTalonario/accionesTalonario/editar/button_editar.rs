@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_editar</name>
+   <tag></tag>
+   <elementGuidId>58be5b6f-f7ad-4c25-8c58-6f5a3a451d4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;formAdmonTalonarios:j_idt410:0:j_idt427&quot;]//span[contains(text(),'Editar')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc6645e2-be18-415d-81a6-941feb18df79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;formAdmonTalonarios:j_idt410:0:j_idt427&quot;]//span[contains(text(),'Editar')]</value>
+      <webElementGuid>2245ec89-6c8c-44d4-aa1a-708471a0b7c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

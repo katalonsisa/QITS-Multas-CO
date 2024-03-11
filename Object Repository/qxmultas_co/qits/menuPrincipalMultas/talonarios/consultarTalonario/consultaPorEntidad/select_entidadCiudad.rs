@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_entidadCiudad</name>
+   <tag></tag>
+   <elementGuidId>15941415-7f5a-4ed0-9cd9-624a4e84029c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id=&quot;formAdmonTalonarios:selectCiudad&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d990dc10-0b6d-4061-986e-bb4a62a6fcb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id=&quot;formAdmonTalonarios:selectCiudad&quot;]</value>
+      <webElementGuid>68364155-1bec-4cfe-ad1b-e2f694a171cb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

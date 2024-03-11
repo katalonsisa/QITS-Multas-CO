@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_siActivacion</name>
+   <tag></tag>
+   <elementGuidId>b7d16a26-83c1-4bef-9896-7da0e71baf0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;activationForm:j_idt497&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df6e688a-4153-4608-adbd-cad58ba16496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;activationForm:j_idt497&quot;]</value>
+      <webElementGuid>67a8df63-6004-45ab-9c33-eccfe826ebe2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

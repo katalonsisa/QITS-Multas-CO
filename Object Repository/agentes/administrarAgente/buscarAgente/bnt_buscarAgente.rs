@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bnt_buscarAgente</name>
+   <tag></tag>
+   <elementGuidId>61562260-ee6b-4a6b-a252-1bed78fd79ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'formContent:j_idt382']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b2e3f782-9cd5-4dc3-9849-eedd631c83ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:j_idt382</value>
+      <webElementGuid>dad522dc-88eb-4a8d-a876-aa5241e6c9c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

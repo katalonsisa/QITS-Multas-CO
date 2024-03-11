@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_editarAgente</name>
+   <tag></tag>
+   <elementGuidId>277a2d6a-f15a-4226-ac64-3c4066854d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'formContent:j_idt397:3:j_idt415']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a961760-b9a7-4d3c-a46c-f578c7d27f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formContent:j_idt397:3:j_idt415</value>
+      <webElementGuid>6909df43-592f-4087-a91f-65b420fe793a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_descargar</name>
+   <tag></tag>
+   <elementGuidId>df4fc4b8-ded1-4d32-b37b-cb56de9c61df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;content:j_idt384:0:j_idt398&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4a05326f-6f9d-4f81-abc3-f0471a48684d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;content:j_idt384:0:j_idt398&quot;]</value>
+      <webElementGuid>68398161-6cb9-4906-9f98-e0db6116d0cd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

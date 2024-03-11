@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_activar</name>
+   <tag></tag>
+   <elementGuidId>682eb897-2ba6-4c22-896b-045c65557d51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//button[contains(@id,'formAdmonTalonarios:j_idt410:')]//span[contains(text(),'Activar')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9e099a8-6497-458a-a424-34df9b1e99ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[contains(@id,'formAdmonTalonarios:j_idt410:')]//span[contains(text(),'Activar')])[1]</value>
+      <webElementGuid>c2f01a6b-55a6-4c9a-818a-97ba927f07b6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
